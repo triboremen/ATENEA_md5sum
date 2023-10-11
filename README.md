@@ -1,2 +1,7 @@
 # ATENEA_md5sum
-Calcula las flags para ATENEA
+Sencillo bash script para calular las flags de ATENEA y mostrarlas en el formato flag{XXXXX}
+
+# INSTRUCCIONES
+`git clone https://github.com/triboremen/ATENEA_md5sum` <br />
+`cd ATENEA_md5sum` <br />
+`./ATENEA_md5sum.sh`
